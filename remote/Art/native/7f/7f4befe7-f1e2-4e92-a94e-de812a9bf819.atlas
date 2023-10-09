@@ -1,0 +1,48 @@
+
+anim_logo.webp
+size: 2017,1572
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cloud
+  rotate: false
+  xy: 1, 968
+  size: 1463, 603
+  orig: 1463, 603
+  offset: 0, 0
+  index: -1
+Dragon_Left
+  rotate: true
+  xy: 1420, 15
+  size: 666, 570
+  orig: 666, 570
+  offset: 0, 0
+  index: -1
+Fire
+  rotate: true
+  xy: 1465, 682
+  size: 889, 551
+  orig: 897, 559
+  offset: 4, 4
+  index: -1
+Shine
+  rotate: false
+  xy: 1282, 307
+  size: 137, 660
+  orig: 153, 668
+  offset: 8, 4
+  index: -1
+Text
+  rotate: false
+  xy: 1, 558
+  size: 1280, 409
+  orig: 1288, 417
+  offset: 4, 4
+  index: -1
+Water
+  rotate: false
+  xy: 1, 1
+  size: 1125, 556
+  orig: 1137, 575
+  offset: 8, 9
+  index: -1

@@ -1,0 +1,174 @@
+
+anim_whiskers.png
+size: 1202,1592
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Whisker_Frames/Whisker_00000
+  rotate: true
+  xy: 601, 268
+  size: 265, 300
+  orig: 270, 305
+  offset: 5, 4
+  index: -1
+Whisker_Frames/Whisker_00002
+  rotate: true
+  xy: 902, 268
+  size: 265, 299
+  orig: 270, 305
+  offset: 5, 5
+  index: -1
+Whisker_Frames/Whisker_00004
+  rotate: true
+  xy: 602, 1
+  size: 266, 299
+  orig: 270, 305
+  offset: 4, 5
+  index: -1
+Whisker_Frames/Whisker_00006
+  rotate: true
+  xy: 1, 1328
+  size: 263, 298
+  orig: 270, 305
+  offset: 7, 6
+  index: -1
+Whisker_Frames/Whisker_00008
+  rotate: true
+  xy: 300, 1328
+  size: 263, 297
+  orig: 270, 305
+  offset: 7, 7
+  index: -1
+Whisker_Frames/Whisker_00010
+  rotate: true
+  xy: 1, 799
+  size: 264, 295
+  orig: 270, 305
+  offset: 6, 9
+  index: -1
+Whisker_Frames/Whisker_00012
+  rotate: true
+  xy: 598, 1328
+  size: 263, 295
+  orig: 270, 305
+  offset: 7, 9
+  index: -1
+Whisker_Frames/Whisker_00014
+  rotate: true
+  xy: 297, 799
+  size: 264, 296
+  orig: 270, 305
+  offset: 6, 8
+  index: -1
+Whisker_Frames/Whisker_00016
+  rotate: true
+  xy: 594, 799
+  size: 264, 297
+  orig: 270, 305
+  offset: 6, 7
+  index: -1
+Whisker_Frames/Whisker_00018
+  rotate: true
+  xy: 892, 799
+  size: 264, 298
+  orig: 270, 305
+  offset: 6, 6
+  index: -1
+Whisker_Frames/Whisker_00020
+  rotate: true
+  xy: 894, 1328
+  size: 263, 299
+  orig: 270, 305
+  offset: 7, 5
+  index: -1
+Whisker_Frames/Whisker_00022
+  rotate: true
+  xy: 1, 534
+  size: 264, 300
+  orig: 270, 305
+  offset: 6, 4
+  index: -1
+Whisker_Frames/Whisker_00024
+  rotate: true
+  xy: 1, 3
+  size: 265, 300
+  orig: 270, 305
+  offset: 5, 4
+  index: -1
+Whisker_Frames/Whisker_00026
+  rotate: true
+  xy: 302, 2
+  size: 265, 299
+  orig: 270, 305
+  offset: 5, 5
+  index: -1
+Whisker_Frames/Whisker_00028
+  rotate: true
+  xy: 902, 1
+  size: 266, 299
+  orig: 270, 305
+  offset: 4, 5
+  index: -1
+Whisker_Frames/Whisker_00030
+  rotate: true
+  xy: 1, 1064
+  size: 263, 298
+  orig: 270, 305
+  offset: 7, 6
+  index: -1
+Whisker_Frames/Whisker_00032
+  rotate: true
+  xy: 300, 1064
+  size: 263, 297
+  orig: 270, 305
+  offset: 7, 7
+  index: -1
+Whisker_Frames/Whisker_00034
+  rotate: true
+  xy: 302, 534
+  size: 264, 295
+  orig: 270, 305
+  offset: 6, 9
+  index: -1
+Whisker_Frames/Whisker_00036
+  rotate: true
+  xy: 598, 1064
+  size: 263, 295
+  orig: 270, 305
+  offset: 7, 9
+  index: -1
+Whisker_Frames/Whisker_00038
+  rotate: true
+  xy: 598, 534
+  size: 264, 296
+  orig: 270, 305
+  offset: 6, 8
+  index: -1
+Whisker_Frames/Whisker_00040
+  rotate: true
+  xy: 895, 534
+  size: 264, 297
+  orig: 270, 305
+  offset: 6, 7
+  index: -1
+Whisker_Frames/Whisker_00042
+  rotate: true
+  xy: 1, 269
+  size: 264, 298
+  orig: 270, 305
+  offset: 6, 6
+  index: -1
+Whisker_Frames/Whisker_00044
+  rotate: true
+  xy: 894, 1064
+  size: 263, 299
+  orig: 270, 305
+  offset: 7, 5
+  index: -1
+Whisker_Frames/Whisker_00046
+  rotate: true
+  xy: 300, 269
+  size: 264, 300
+  orig: 270, 305
+  offset: 6, 4
+  index: -1

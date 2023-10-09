@@ -1,0 +1,13 @@
+
+anim_pickem_dragon-fingers.webp
+size: 255,247
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hand_Right
+  rotate: false
+  xy: 1, 1
+  size: 253, 245
+  orig: 253, 246
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,83 @@
+
+anim_h3_bird.webp
+size: 318,719
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 1, 543
+  size: 175, 244
+  orig: 178, 249
+  offset: 0, 5
+  index: -1
+Box_Red
+  rotate: false
+  xy: 1, 353
+  size: 199, 189
+  orig: 199, 189
+  offset: 0, 0
+  index: -1
+Cloud_1
+  rotate: false
+  xy: 174, 1
+  size: 139, 105
+  orig: 166, 105
+  offset: 0, 0
+  index: -1
+Cloud_2
+  rotate: false
+  xy: 1, 90
+  size: 172, 92
+  orig: 172, 92
+  offset: 0, 0
+  index: -1
+Foot_Left
+  rotate: false
+  xy: 246, 649
+  size: 71, 69
+  orig: 76, 70
+  offset: 5, 1
+  index: -1
+Foot_Right
+  rotate: false
+  xy: 246, 582
+  size: 67, 66
+  orig: 69, 70
+  offset: 2, 4
+  index: -1
+Pupil
+  rotate: true
+  xy: 246, 562
+  size: 19, 20
+  orig: 27, 28
+  offset: 4, 4
+  index: -1
+Tail
+  rotate: false
+  xy: 1, 5
+  size: 91, 84
+  orig: 136, 94
+  offset: 45, 5
+  index: -1
+Wing_Left
+  rotate: false
+  xy: 183, 107
+  size: 134, 225
+  orig: 135, 225
+  offset: 1, 0
+  index: -1
+Wing_Right
+  rotate: false
+  xy: 201, 333
+  size: 110, 209
+  orig: 111, 209
+  offset: 1, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1, 183
+  size: 169, 181
+  orig: 188, 185
+  offset: 10, 0
+  index: -1
