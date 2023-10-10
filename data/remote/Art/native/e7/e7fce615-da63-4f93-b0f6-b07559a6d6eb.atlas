@@ -1,0 +1,55 @@
+
+reel_symbol_glow.webp
+size: 386,719
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Circle_01
+  rotate: false
+  xy: 1, 211
+  size: 227, 227
+  orig: 235, 235
+  offset: 4, 4
+  index: -1
+Circle_02
+  rotate: false
+  xy: 1, 1
+  size: 209, 209
+  orig: 217, 217
+  offset: 4, 4
+  index: -1
+circle03
+  rotate: false
+  xy: 229, 292
+  size: 146, 146
+  orig: 154, 154
+  offset: 4, 4
+  index: -1
+glow
+  rotate: true
+  xy: 1, 439
+  size: 279, 257
+  orig: 287, 287
+  offset: 4, 15
+  index: -1
+square01
+  rotate: false
+  xy: 211, 45
+  size: 165, 165
+  orig: 173, 173
+  offset: 4, 4
+  index: -1
+square04
+  rotate: false
+  xy: 259, 470
+  size: 121, 121
+  orig: 129, 129
+  offset: 4, 4
+  index: -1
+square05
+  rotate: false
+  xy: 259, 592
+  size: 126, 126
+  orig: 136, 136
+  offset: 5, 5
+  index: -1

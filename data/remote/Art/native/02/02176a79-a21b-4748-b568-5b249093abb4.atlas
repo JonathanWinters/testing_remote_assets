@@ -1,0 +1,426 @@
+
+anim_pickem_dragon-fingers.webp
+size: 4195,1314
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Right
+  rotate: false
+  xy: 1959, 66
+  size: 305, 325
+  orig: 305, 325
+  offset: 0, 0
+  index: -1
+Body_Lower
+  rotate: false
+  xy: 1333, 392
+  size: 1342, 921
+  orig: 1342, 921
+  offset: 0, 0
+  index: -1
+Body_Middle
+  rotate: false
+  xy: 1, 5
+  size: 1331, 1308
+  orig: 1331, 1308
+  offset: 0, 0
+  index: -1
+Body_Top
+  rotate: false
+  xy: 2676, 699
+  size: 738, 614
+  orig: 740, 614
+  offset: 2, 0
+  index: -1
+Hand_Right
+  rotate: false
+  xy: 3415, 585
+  size: 253, 245
+  orig: 253, 246
+  offset: 0, 1
+  index: -1
+Head
+  rotate: true
+  xy: 3415, 831
+  size: 482, 623
+  orig: 482, 623
+  offset: 0, 0
+  index: -1
+Jaw
+  rotate: false
+  xy: 2265, 135
+  size: 328, 256
+  orig: 328, 256
+  offset: 0, 0
+  index: -1
+Neck_Over
+  rotate: true
+  xy: 2676, 410
+  size: 288, 606
+  orig: 288, 606
+  offset: 0, 0
+  index: -1
+Neck_Under
+  rotate: true
+  xy: 1333, 54
+  size: 337, 625
+  orig: 345, 625
+  offset: 5, 0
+  index: -1
+Pearl_Right
+  rotate: false
+  xy: 3669, 642
+  size: 188, 188
+  orig: 194, 194
+  offset: 3, 3
+  index: -1
+Pupils
+  rotate: false
+  xy: 1333, 27
+  size: 135, 26
+  orig: 142, 35
+  offset: 3, 5
+  index: -1
+Shoulder_Right
+  rotate: false
+  xy: 4039, 982
+  size: 135, 331
+  orig: 139, 331
+  offset: 4, 0
+  index: -1
+Whiskers/Whiskers_0001
+  rotate: false
+  xy: 2853, 299
+  size: 179, 110
+  orig: 200, 200
+  offset: 17, 56
+  index: -1
+Whiskers/Whiskers_0002
+  rotate: false
+  xy: 3033, 297
+  size: 176, 112
+  orig: 200, 200
+  offset: 20, 56
+  index: -1
+Whiskers/Whiskers_0003
+  rotate: false
+  xy: 2683, 175
+  size: 174, 110
+  orig: 200, 200
+  offset: 22, 56
+  index: -1
+Whiskers/Whiskers_0004
+  rotate: false
+  xy: 3861, 584
+  size: 171, 111
+  orig: 200, 200
+  offset: 25, 56
+  index: -1
+Whiskers/Whiskers_0005
+  rotate: false
+  xy: 3447, 364
+  size: 170, 108
+  orig: 200, 200
+  offset: 25, 56
+  index: -1
+Whiskers/Whiskers_0006
+  rotate: false
+  xy: 3447, 473
+  size: 169, 111
+  orig: 200, 200
+  offset: 26, 56
+  index: -1
+Whiskers/Whiskers_0007
+  rotate: true
+  xy: 3652, 103
+  size: 167, 109
+  orig: 200, 200
+  offset: 28, 56
+  index: -1
+Whiskers/Whiskers_0008
+  rotate: false
+  xy: 3972, 237
+  size: 165, 111
+  orig: 200, 200
+  offset: 30, 56
+  index: -1
+Whiskers/Whiskers_0009
+  rotate: false
+  xy: 3026, 181
+  size: 168, 115
+  orig: 200, 200
+  offset: 27, 56
+  index: -1
+Whiskers/Whiskers_0010
+  rotate: false
+  xy: 2858, 179
+  size: 167, 119
+  orig: 200, 200
+  offset: 28, 56
+  index: -1
+Whiskers/Whiskers_0011
+  rotate: false
+  xy: 2683, 286
+  size: 169, 123
+  orig: 200, 200
+  offset: 26, 56
+  index: -1
+Whiskers/Whiskers_0012
+  rotate: true
+  xy: 4039, 812
+  size: 169, 124
+  orig: 200, 200
+  offset: 26, 56
+  index: -1
+Whiskers/Whiskers_0013
+  rotate: false
+  xy: 3858, 696
+  size: 174, 134
+  orig: 200, 200
+  offset: 21, 56
+  index: -1
+Whiskers/Whiskers_0014
+  rotate: false
+  xy: 2265, 1
+  size: 174, 133
+  orig: 200, 200
+  offset: 21, 56
+  index: -1
+Whiskers/Whiskers_0015
+  rotate: true
+  xy: 3283, 530
+  size: 168, 129
+  orig: 200, 200
+  offset: 27, 56
+  index: -1
+Whiskers/Whiskers_0016
+  rotate: false
+  xy: 2440, 6
+  size: 168, 128
+  orig: 200, 200
+  offset: 27, 56
+  index: -1
+Whiskers/Whiskers_0017
+  rotate: true
+  xy: 2710, 11
+  size: 163, 123
+  orig: 200, 200
+  offset: 32, 56
+  index: -1
+Whiskers/Whiskers_0018
+  rotate: false
+  xy: 3283, 408
+  size: 163, 121
+  orig: 200, 200
+  offset: 32, 56
+  index: -1
+Whiskers/Whiskers_0019
+  rotate: false
+  xy: 4033, 573
+  size: 161, 117
+  orig: 200, 200
+  offset: 34, 56
+  index: -1
+Whiskers/Whiskers_0020
+  rotate: false
+  xy: 3972, 122
+  size: 162, 114
+  orig: 200, 200
+  offset: 33, 56
+  index: -1
+Whiskers/Whiskers_0021
+  rotate: false
+  xy: 3307, 13
+  size: 157, 117
+  orig: 200, 200
+  offset: 38, 56
+  index: -1
+Whiskers/Whiskers_0022
+  rotate: false
+  xy: 4033, 459
+  size: 159, 113
+  orig: 200, 200
+  offset: 36, 56
+  index: -1
+Whiskers/Whiskers_0023
+  rotate: false
+  xy: 4033, 691
+  size: 161, 120
+  orig: 200, 200
+  offset: 34, 56
+  index: -1
+Whiskers/Whiskers_0024
+  rotate: false
+  xy: 3144, 14
+  size: 162, 116
+  orig: 200, 200
+  offset: 33, 56
+  index: -1
+Whiskers/Whiskers_0025
+  rotate: false
+  xy: 3972, 11
+  size: 165, 110
+  orig: 200, 200
+  offset: 31, 56
+  index: -1
+Whiskers/Whiskers_0026
+  rotate: true
+  xy: 3762, 103
+  size: 167, 108
+  orig: 200, 200
+  offset: 29, 56
+  index: -1
+Whiskers/Whiskers_0027
+  rotate: false
+  xy: 3652, 2
+  size: 170, 100
+  orig: 200, 200
+  offset: 26, 56
+  index: -1
+Whiskers/Whiskers_0028
+  rotate: false
+  xy: 3861, 485
+  size: 171, 98
+  orig: 200, 200
+  offset: 24, 56
+  index: -1
+Whiskers/Whiskers_0029
+  rotate: false
+  xy: 3618, 271
+  size: 175, 95
+  orig: 200, 200
+  offset: 20, 56
+  index: -1
+Whiskers/Whiskers_0030
+  rotate: true
+  xy: 2858, 1
+  size: 177, 95
+  orig: 200, 200
+  offset: 18, 56
+  index: -1
+Whiskers/Whiskers_0031
+  rotate: true
+  xy: 3558, 2
+  size: 177, 93
+  orig: 200, 200
+  offset: 18, 56
+  index: -1
+Whiskers/Whiskers_0032
+  rotate: true
+  xy: 3465, 1
+  size: 178, 92
+  orig: 200, 200
+  offset: 17, 56
+  index: -1
+Whiskers/Whiskers_0033
+  rotate: false
+  xy: 3397, 272
+  size: 183, 91
+  orig: 200, 200
+  offset: 12, 56
+  index: -1
+Whiskers/Whiskers_0034
+  rotate: false
+  xy: 3195, 131
+  size: 184, 90
+  orig: 200, 200
+  offset: 11, 56
+  index: -1
+Whiskers/Whiskers_0035
+  rotate: false
+  xy: 3652, 461
+  size: 182, 91
+  orig: 200, 200
+  offset: 13, 56
+  index: -1
+Whiskers/Whiskers_0036
+  rotate: false
+  xy: 3396, 180
+  size: 183, 91
+  orig: 200, 200
+  offset: 12, 56
+  index: -1
+Whiskers/Whiskers_0037
+  rotate: true
+  xy: 2594, 200
+  size: 191, 88
+  orig: 200, 200
+  offset: 4, 56
+  index: -1
+Whiskers/Whiskers_0038
+  rotate: false
+  xy: 3669, 553
+  size: 191, 88
+  orig: 200, 200
+  offset: 4, 56
+  index: -1
+Whiskers/Whiskers_0039
+  rotate: false
+  xy: 3210, 315
+  size: 186, 92
+  orig: 200, 200
+  offset: 9, 56
+  index: -1
+Whiskers/Whiskers_0040
+  rotate: false
+  xy: 3210, 222
+  size: 185, 92
+  orig: 200, 200
+  offset: 10, 56
+  index: -1
+Whiskers/Whiskers_0041
+  rotate: false
+  xy: 3618, 367
+  size: 181, 93
+  orig: 200, 200
+  offset: 14, 56
+  index: -1
+Whiskers/Whiskers_0042
+  rotate: true
+  xy: 3050, 1
+  size: 179, 93
+  orig: 200, 200
+  offset: 16, 56
+  index: -1
+Whiskers/Whiskers_0043
+  rotate: true
+  xy: 2954, 1
+  size: 177, 95
+  orig: 200, 200
+  offset: 18, 56
+  index: -1
+Whiskers/Whiskers_0044
+  rotate: false
+  xy: 3794, 271
+  size: 175, 95
+  orig: 200, 200
+  offset: 20, 56
+  index: -1
+Whiskers/Whiskers_0045
+  rotate: true
+  xy: 3871, 95
+  size: 175, 100
+  orig: 200, 200
+  offset: 20, 56
+  index: -1
+Whiskers/Whiskers_0046
+  rotate: true
+  xy: 2609, 1
+  size: 173, 100
+  orig: 200, 200
+  offset: 22, 56
+  index: -1
+Whiskers/Whiskers_0047
+  rotate: false
+  xy: 3835, 378
+  size: 170, 106
+  orig: 200, 200
+  offset: 25, 56
+  index: -1
+Whiskers/Whiskers_0048
+  rotate: false
+  xy: 4006, 349
+  size: 167, 109
+  orig: 200, 200
+  offset: 28, 56
+  index: -1

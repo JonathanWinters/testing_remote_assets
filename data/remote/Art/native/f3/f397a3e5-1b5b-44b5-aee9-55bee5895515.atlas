@@ -1,0 +1,146 @@
+
+anim_mini_jackpot.webp
+size: 1715,407
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG1
+  rotate: true
+  xy: 1278, 155
+  size: 251, 250
+  orig: 268, 262
+  offset: 10, 7
+  index: -1
+BG2
+  rotate: false
+  xy: 1, 1
+  size: 405, 405
+  orig: 424, 426
+  offset: 10, 11
+  index: -1
+Bubble
+  rotate: false
+  xy: 1562, 5
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+FishGreen_head_MAIN
+  rotate: true
+  xy: 1441, 24
+  size: 130, 120
+  orig: 204, 120
+  offset: 74, 0
+  index: -1
+FishGreen_head_alt
+  rotate: true
+  xy: 867, 1
+  size: 117, 112
+  orig: 198, 120
+  offset: 77, 4
+  index: -1
+FishGreen_head_alt_NEW
+  rotate: false
+  xy: 737, 1
+  size: 129, 117
+  orig: 202, 122
+  offset: 72, 5
+  index: -1
+Glow
+  rotate: false
+  xy: 407, 77
+  size: 329, 329
+  orig: 352, 351
+  offset: 11, 11
+  index: -1
+GreenFish_Body
+  rotate: false
+  xy: 1529, 195
+  size: 185, 211
+  orig: 189, 215
+  offset: 3, 3
+  index: -1
+Lower Fin
+  rotate: true
+  xy: 606, 14
+  size: 62, 56
+  orig: 107, 67
+  offset: 45, 0
+  index: -1
+Pearl
+  rotate: false
+  xy: 1025, 154
+  size: 252, 252
+  orig: 260, 260
+  offset: 4, 4
+  index: -1
+Pop/Pop_0005
+  rotate: true
+  xy: 663, 16
+  size: 60, 37
+  orig: 100, 100
+  offset: 19, 26
+  index: -1
+Pop/Pop_0006
+  rotate: true
+  xy: 567, 13
+  size: 63, 38
+  orig: 100, 100
+  offset: 18, 26
+  index: -1
+Pop/Pop_0007
+  rotate: true
+  xy: 527, 11
+  size: 65, 39
+  orig: 100, 100
+  offset: 17, 26
+  index: -1
+Pop/Pop_0009
+  rotate: true
+  xy: 485, 7
+  size: 69, 41
+  orig: 100, 100
+  offset: 15, 25
+  index: -1
+Ring
+  rotate: false
+  xy: 737, 119
+  size: 287, 287
+  orig: 287, 287
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 1194, 15
+  size: 157, 138
+  orig: 176, 138
+  offset: 18, 0
+  index: -1
+Text
+  rotate: false
+  xy: 980, 9
+  size: 213, 109
+  orig: 215, 113
+  offset: 1, 2
+  index: -1
+Upper Fin
+  rotate: true
+  xy: 407, 3
+  size: 73, 77
+  orig: 88, 104
+  offset: 0, 14
+  index: -1
+Upper Fin_Alt_1
+  rotate: false
+  xy: 1562, 110
+  size: 128, 84
+  orig: 160, 105
+  offset: 4, 14
+  index: -1
+Upper Fin_Alt_2
+  rotate: true
+  xy: 1352, 17
+  size: 137, 88
+  orig: 145, 111
+  offset: 4, 17
+  index: -1
